@@ -1,0 +1,35 @@
+- Name : Jaafar Wael Jaafar Jaafar
+- ID   : 120180534
+
+
+- These shell commands are defined internally:
+- 1_cd <path> :change the current working directory
+- 2_dir <directory> : list the cuntent of the directory if No directory is 
+  specified list the current directory.
+- 3_quit<> : exit from the Shell.
+- 4_clr<> : clear the screen.
+- 5_environ: list all enviroments Variable.
+- 6_pause : stop the shell immediatly.
+- 7_myShell <file>:execuates all the command withen the File.
+- 8_./myShell <file>:execuates all the command withen the File.
+- 9_command args > file: redirect output to file.                                                       
+- 10_command args < file : redirect input to command from file.
+- 11_command args < file1 > file2: redirect input from file1 to command and 
+  redirect output from command to file2.
+- 12_command args &: execuates command in the BackGround.
+- 13_help<> to desplay this file.
+
+- display help about any Command use : command --help.
+- Any other command are executed like program invokation.
+- you can use man to desplay information about the following:
+       1   Executable programs or shell commands
+       2   System calls (functions provided by the kernel)
+       3   Library calls (functions within program libraries)
+       4   Special files (usually found in /dev)
+       5   File formats and conventions, e.g. /etc/passwd
+       6   Games
+       7   Miscellaneous (including  macro  packages  and  conventions), 
+           e.g. man(7), groff(7)
+       8   System administration commands (usually only for root)
+       9   Kernel routines [Non standard]
+-       
